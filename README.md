@@ -32,7 +32,7 @@ In iris, you can:
 
 **Table of Contents** 
 
-* [Installation](#installation-version-10)  
+* [Installation](#installation-version-2.0)  
   * [Mac OSX](#mac-osx) 
   * [Windows & Linux](#windows--linux) 
 * [Usage](#usage--)
@@ -45,13 +45,13 @@ In iris, you can:
 
 <br>
 
-# Installation Version 1.1:
+# Installation Version 2.0:
 
 <br>
 
 ### Mac OSX
 
-[Download Iris dmg installer (for macosx)](http://metaware.us/iris/Iris-v1.1-installer.dmg)
+[Download Iris dmg installer (for macosx)]() <- Link to be added pending review
 
 **NOTE:** 
 
@@ -65,7 +65,7 @@ Also **NOTE:**
 
 ### Windows & Linux
 
-[Download Iris "clickable" Jar File](http://metaware.us/iris/iris-v1.1-all.jar)
+[Download Iris "clickable" Jar File]() <- Link to be added pending review
 - **NOTE:** _Requires Java 8 installation_ - to get Java 8, Select [**"Free Java Download"**](https://www.java.com/en/download/) on the linked Oracle site.
 
 **To Run:**
