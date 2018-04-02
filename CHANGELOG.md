@@ -23,7 +23,6 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 ***
 
 ## [v2.0.2]
-#### Removed
 #### Added
 * Added this specific Github project repository.
 * New UI for Global Properties Editor accessed through the addition of new Main Menu item.
@@ -60,6 +59,8 @@ WindowBoxes.
 * Removed automatic deletion of Terms in the ExpressionDisplay when they are not present in the current Retina
 being used. (Used to delete the user's input.)
 * Fixed multiple "other" bugs throughout...
+#### Removed
+
 ***
 
 ## [v1.1]  Main Feature: Configuration from Properties File
