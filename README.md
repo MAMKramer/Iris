@@ -45,13 +45,13 @@ In iris, you can:
 
 <br>
 
-# Installation Version 2.0:
+# Installation Version 2 (v2.0.2)
 
 <br>
 
 ### Mac OSX
 
-[Download Iris dmg installer (for macosx)]() <- Link to be added pending review
+[Download Iris dmg installer (for macosx)](https://github.com/cortical-io/Iris/releases/download/v2.0.2/Iris-v2.0.2-installer.dmg)
 
 **NOTE:** 
 
@@ -65,7 +65,7 @@ Also **NOTE:**
 
 ### Windows & Linux
 
-[Download Iris "clickable" Jar File]() <- Link to be added pending review
+[Download Iris "clickable" Jar File](https://github.com/cortical-io/Iris/releases/download/v2.0.2/iris-v2.0.2.jar)
 - **NOTE:** _Requires Java 8 installation_ - to get Java 8, Select [**"Free Java Download"**](https://www.java.com/en/download/) on the linked Oracle site.
 
 **To Run:**
@@ -77,9 +77,17 @@ Simply Double-Click on the ".jar" file...
 execute:
 
 ```
-> java -jar iris-v1.xx-all.jar
+> java -jar iris-v2.0.2.jar
 ```
 ...on the command line.
+
+---
+
+<br>
+
+### To see all releases, see the [Release Page](https://github.com/cortical-io/Iris/releases)
+
+<br>
 
 ---
 
